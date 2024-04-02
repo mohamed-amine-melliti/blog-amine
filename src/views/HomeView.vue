@@ -23,7 +23,7 @@
           </h1>
           <div class="home-page__hero-content">
             <p>
-                Welcome To My Blog where You can find shared knowledge of A.I , Full Stack developpement , 3D web , Cybersecurity .             
+                Welcome To My Blog where You can find shared knowledge of A.I , Full Stack developpement , 3D web , Cybersecurity articles .             
             </p>
           </div>
           <a href="/aboutMe" class="home-page__hero-link">
@@ -429,7 +429,7 @@
             </header>
             <div class="issue-listing__grid issue-listing__grid--image-card">
               <a
-                href="https://fas.org/issue/technology-and-innovation/"
+                href="/web-pentesting"
                 class="listing-card listing-card--short-image"
                 style="
                   --issue-color: var(--color--tech);
@@ -491,7 +491,7 @@
                 </div>
               </a>
               <a
-                href="https://fas.org/issue/social-innovation/"
+                href="/ai"
                 class="listing-card listing-card--short-image"
                 style="
                   --issue-color: var(--color--social);
@@ -554,7 +554,7 @@
                 </div>
               </a>
               <a
-                href="https://fas.org/issue/science-policy/"
+                href="/software-architecture"
                 class="listing-card listing-card--short-image"
                 style="
                   --issue-color: var(--color--science);
@@ -616,7 +616,7 @@
                 </div>
               </a>
               <a
-                href="https://fas.org/issue/nuclear-weapons/"
+                href="/back"
                 class="listing-card listing-card--short-image"
                 style="
                   --issue-color: var(--color--national);
@@ -842,7 +842,7 @@
                   </div>
                 </div>
                 <a
-                  href="https://fas.org/day-one-project/"
+                  href="/get-involved"
                   class="day-one-cta__project-panel-link"
                 >
                   <svg

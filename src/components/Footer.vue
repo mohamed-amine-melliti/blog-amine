@@ -8,7 +8,7 @@
               <div class="block-header__heading">
                 <div class="block-header__heading-title">My Team</div>
               </div>
-              <a href="https://fas.org/careers/" class="block-header__link">
+              <a href="https://www.linkedin.com/in/mohamed-amine-melliti-437446168/" class="block-header__link">
                 <svg
                   width="11"
                   height="9"
@@ -32,7 +32,7 @@
                 I  believe in embracing a growth oriented and entrepreneurial
                 mindset to drive impact for our world . Join my Team if you have ideas and projects to work on .
               </div>
-              <a href="https://fas.org/careers/" class="site-footer__cta-link">
+              <a href="https://www.linkedin.com/in/mohamed-amine-melliti-437446168/" class="site-footer__cta-link">
                 <svg
                   width="11"
                   height="9"
@@ -140,7 +140,7 @@
                 <div class="site-footer__cta-text">
                   <ul>
                     <li>
-                      <a href="https://twitter.com/Amineam5284298" target="_blank"
+                     <a href="https://twitter.com/Amineam5284298" target="_blank"
                         >Twitter</a
                       >
                     </li>
@@ -166,13 +166,13 @@
                   id="menu-item-69"
                   class="menu-item menu-item-type-post_type menu-item-object-page menu-item-privacy-policy menu-item-69"
                 >
-                  <a href="https://fas.org/privacy-policy/">Privacy Policy</a>
+                  <a href="https://www.linkedin.com/in/mohamed-amine-melliti-437446168/">Privacy Policy</a>
                 </li>
                 <li
                   id="menu-item-12986"
                   class="menu-item menu-item-type-post_type menu-item-object-page menu-item-privacy-policy menu-item-12986"
                 >
-                  <a href="https://fas.org/privacy-policy/">Cookie Policy</a>
+                  <a href="https://www.linkedin.com/in/mohamed-amine-melliti-437446168/">Cookie Policy</a>
                 </li>
               </ul>
             </nav>
@@ -181,7 +181,7 @@
                 &copy; 2024
             </div>
             <div class="site-footer__foot-website">
-              <a href="https://and-now.co.uk/" target="_blank"
+              <a href="https://www.amine-melliti.com" target="_blank"
                 >Designed by Melliti Mohamed Amine</a
               >
             </div>

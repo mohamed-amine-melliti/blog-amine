@@ -29,7 +29,7 @@ npm i @richardev/vue3-boilerplate
 or
 
 ```
-git clone https://github.com/richardevcom/vue3-boilerplate.git
+git clone https://github.com//vue3-boilerplate.git
 ```
 
 then

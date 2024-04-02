@@ -23,10 +23,10 @@
             </h1>
             <div class="home-page__hero-content">
               <p>
-Welcome To My Blog where You can find shared knowledge of A.I , Full Stack developpement , 3D web , Cybersecurity .             
+Welcome To My Blog where You can find shared knowledge of A.I , Full Stack developpement , 3D web , Cybersecurity articles.             
               </p>
             </div>
-            <a href="https://fas.org/about-fas/" class="home-page__hero-link">
+            <a href="/about-fas/" class="home-page__hero-link">
               <svg
                 width="11"
                 height="9"
@@ -434,7 +434,7 @@ Welcome To My Blog where You can find shared knowledge of A.I , Full Stack devel
               </header>
               <div class="issue-listing__grid issue-listing__grid--image-card">
                 <a
-                  href="https://fas.org/issue/technology-and-innovation/"
+                  href="/web-pentesting"
                   class="listing-card listing-card--short-image"
                   style="
                     --issue-color: var(--color--tech);
@@ -496,7 +496,7 @@ Welcome To My Blog where You can find shared knowledge of A.I , Full Stack devel
                   </div>
                 </a>
                 <a
-                  href="https://fas.org/issue/social-innovation/"
+                  href="/ai"
                   class="listing-card listing-card--short-image"
                   style="
                     --issue-color: var(--color--social);
@@ -559,7 +559,7 @@ Welcome To My Blog where You can find shared knowledge of A.I , Full Stack devel
                   </div>
                 </a>
                 <a
-                  href="https://fas.org/issue/science-policy/"
+                  href="/software-architecture"
                   class="listing-card listing-card--short-image"
                   style="
                     --issue-color: var(--color--science);
@@ -621,7 +621,7 @@ Welcome To My Blog where You can find shared knowledge of A.I , Full Stack devel
                   </div>
                 </a>
                 <a
-                  href="https://fas.org/issue/nuclear-weapons/"
+                  href="/back"
                   class="listing-card listing-card--short-image"
                   style="
                     --issue-color: var(--color--national);
@@ -847,7 +847,7 @@ Welcome To My Blog where You can find shared knowledge of A.I , Full Stack devel
                     </div>
                   </div>
                   <a
-                    href="https://fas.org/day-one-project/"
+                    href="/get-involved"
                     class="day-one-cta__project-panel-link"
                   >
                     <svg

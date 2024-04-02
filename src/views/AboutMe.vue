@@ -4,8 +4,8 @@
 
         <header class="page-hero">
             <div class="page-hero__image">
-                <img src="assets/fam.jpg"  
-                    srcset="assets/fam.jpg 402w, public/assets/fam.jpg 462w, assets/fam.jpg  662w, assets/fam.jpg  722w, assets/fam.jpg  982w,assets/fam.jpg  1032w, assets/fam.jpg 1402w, assets/fam.jpg  1702w"
+                <img src="@/assets/fam.jpg"  
+                    srcset="@/assets/fam.jpg 402w, @/assets/fam.jpg 462w, @/assets/fam.jpg  662w, @/assets/fam.jpg  722w, @/assets/fam.jpg  982w,@/assets/fam.jpg  1032w, @/assets/fam.jpg 1402w, @/assets/fam.jpg  1702w"
                     sizes="100vw, (min-width: 720px) 60vw, (min-width: 980px) 50vw" alt="" />
                 <div class="page-hero__image-overlay"></div>
             </div>

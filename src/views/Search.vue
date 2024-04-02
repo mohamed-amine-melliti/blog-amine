@@ -4,7 +4,9 @@
 <template>
 
 
+
     <main class="site-main">
+
 
         <div class="search-page">
             <div class="search-page__grid">
@@ -19,13 +21,13 @@
                     <div class="search-page__category-terms">
                         <a href="https://fas.org/publications-archive/?tt=nuclear-notebook"
                             class="search-page__category-term">
-                            Nuclear Notebook </a>
+                            Web 3D Front-End </a>
                         <a href="https://fas.org/publications-archive/?tt=artificial-intelligence"
                             class="search-page__category-term">
                             Artificial Intelligence </a>
                         <a href="https://fas.org/publications-archive/?tt=extreme-heat"
                             class="search-page__category-term">
-                            extreme heat </a>
+                            Web Pentesting </a>
                         <a href="https://fas.org/publications-archive/?tt=bioeconomy"
                             class="search-page__category-term">
                             Bioeconomy </a>
@@ -85,8 +87,7 @@
             </div>
         </div>
 
+
     </main>
-
-
 
 </template>

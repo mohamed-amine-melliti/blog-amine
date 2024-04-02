@@ -6,7 +6,7 @@ import Logo from './Logo.vue';
     <header class="site-header">
         <div class="site-header__inner">
           <a
-            href="https://amine-melliti.com/"
+            href="/"
             title="Federation of American Scientists"
             rel="home"
             class="site-header__logo"
@@ -83,7 +83,7 @@ import Logo from './Logo.vue';
                       id="menu-item-35"
                       class="menu-item menu-item-type-post_type menu-item-object-issues menu-item-35"
                     >
-                      <a href="https://fas.org/issue/ecosystems-entrepreneurship/"
+                      <a href="/front"
                         >Front-End</a
                       >
                     </li>
@@ -91,7 +91,7 @@ import Logo from './Logo.vue';
                       id="menu-item-36"
                       class="menu-item menu-item-type-post_type menu-item-object-issues menu-item-36"
                     >
-                      <a href="https://fas.org/issue/nuclear-weapons/"
+                      <a href="/back"
                         >Back-End</a
                       >
                     </li>
@@ -99,7 +99,7 @@ import Logo from './Logo.vue';
                       id="menu-item-37"
                       class="menu-item menu-item-type-post_type menu-item-object-issues menu-item-37"
                     >
-                      <a href="https://fas.org/issue/science-policy/"
+                      <a href="/software-architecture"
                         >Software Architecture</a
                       >
                     </li>
@@ -107,7 +107,7 @@ import Logo from './Logo.vue';
                       id="menu-item-38"
                       class="menu-item menu-item-type-post_type menu-item-object-issues menu-item-38"
                     >
-                      <a href="https://fas.org/issue/social-innovation/"
+                      <a href="/ai"
                         >Artificial Intelligence</a
                       >
                     </li>
@@ -115,7 +115,7 @@ import Logo from './Logo.vue';
                       id="menu-item-39"
                       class="menu-item menu-item-type-post_type menu-item-object-issues menu-item-39"
                     >
-                      <a href="https://fas.org/issue/technology-and-innovation/"
+                      <a href="/web-pentesting"
                         >Web Pentesting</a
                       >
                     </li>
@@ -125,7 +125,7 @@ import Logo from './Logo.vue';
                   id="menu-item-33"
                   class="menu-item menu-item-type-post_type menu-item-object-page menu-item-33"
                 >
-                  <a href="https://fas.org/publications/">My Articles</a>
+                  <a href="/articles">My Articles</a>
                 </li>
                 <li
                   id="menu-item-10"
@@ -137,7 +137,7 @@ import Logo from './Logo.vue';
                       id="menu-item-1674"
                       class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1674"
                     >
-                      <a href="https://fas.org/day-one-project/"
+                      <a href="/get-involved"
                         >Day One Project</a
                       >
                     </li>
@@ -145,13 +145,13 @@ import Logo from './Logo.vue';
                       id="menu-item-1829"
                       class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1829"
                     >
-                      <a href="https://fas.org/talent-hub/">Talent Hub</a>
+                      <a href="/talent-hub/">Talent Hub</a>
                     </li>
                     <li
                       id="menu-item-1675"
                       class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1675"
                     >
-                      <a href="https://fas.org/fiscal-sponsorship/"
+                      <a href="fiscal-sponsorship/"
                         >Fiscal Sponsorship</a
                       >
                     </li>
@@ -159,7 +159,7 @@ import Logo from './Logo.vue';
                       id="menu-item-1686"
                       class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1686"
                     >
-                      <a href="https://fas.org/ways-to-engage/">Ways to engage</a>
+                      <a href="ways-to-engage/">Ways to engage</a>
                     </li>
                   </ul>
                 </li>
@@ -173,14 +173,14 @@ import Logo from './Logo.vue';
                       id="menu-item-1673"
                       class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1673"
                     >
-                    <router-link to="/aboutMe">About</router-link>
-                    </li>
+                    <a  href="/aboutMe">About</a>
+                  </li>
                     <li
                       id="menu-item-1671"
                       class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1671"
                     >
                       <a
-                        href="https://fas.org/diversity-equity-inclusion-and-belonging/"
+                        href="/diversity-equity-inclusion-and-belonging"
                         >DEIB</a
                       >
                     </li>
@@ -188,7 +188,7 @@ import Logo from './Logo.vue';
                       id="menu-item-17438"
                       class="menu-item menu-item-type-custom menu-item-object-custom menu-item-17438"
                     >
-                      <a href="https://fas.org/fas-experts/?expert-category=staff"
+                      <a href="/fas-experts/?expert-category=staff"
                         >Staff</a
                       >
                     </li>
@@ -196,7 +196,7 @@ import Logo from './Logo.vue';
                       id="menu-item-1312"
                       class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1312"
                     >
-                      <a href="https://fas.org/careers/">Careers</a>
+                      <a href="/front">Careers</a>
                     </li>
                   </ul>
                 </li>
@@ -204,19 +204,19 @@ import Logo from './Logo.vue';
                   id="menu-item-31"
                   class="menu-item menu-item-type-post_type menu-item-object-page menu-item-31"
                 >
-                  <a href="https://fas.org/contact/">Contact</a>
+                  <a href="/contact">Contact</a>
                 </li>
                 <li
                   id="menu-item-32"
                   class="menu-item menu-item-type-post_type menu-item-object-page menu-item-32"
                 >
-                  <a href="https://fas.org/donate/">Donate</a>
+                  <a href="/donate">Donate</a>
                 </li>
                 <li
                   id="menu-item-34"
                   class="menu-item menu-item-type-post_type menu-item-object-page menu-item-34"
                 >
-                  <a href="https://fas.org/search/">Search</a>
+                  <a href="/search">Search</a>
                 </li>
               </ul>
             </div>
@@ -233,35 +233,35 @@ import Logo from './Logo.vue';
                     <li
                       class="menu-item menu-item-type-post_type menu-item-object-issues menu-item-35"
                     >
-                      <a href="https://fas.org/issue/ecosystems-entrepreneurship/"
+                      <a href="/issue/ecosystems-entrepreneurship/"
                         >Front-End</a
                       >
                     </li>
                     <li
                       class="menu-item menu-item-type-post_type menu-item-object-issues menu-item-36"
                     >
-                      <a href="https://fas.org/issue/nuclear-weapons/"
+                      <a href="/back"
                         >Back-End</a
                       >
                     </li>
                     <li
                       class="menu-item menu-item-type-post_type menu-item-object-issues menu-item-37"
                     >
-                      <a href="https://fas.org/issue/science-policy/"
+                      <a href="/software-architecture"
                         >Software Architecture</a
                       >
                     </li>
                     <li
                       class="menu-item menu-item-type-post_type menu-item-object-issues menu-item-38"
                     >
-                      <a href="https://fas.org/issue/social-innovation/"
+                      <a href="/ai"
                         >Web Pentesting</a
                       >
                     </li>
                     <li
                       class="menu-item menu-item-type-post_type menu-item-object-issues menu-item-39"
                     >
-                      <a href="https://fas.org/issue/technology-and-innovation/"
+                      <a href="/web-pentesting"
                         >Artificial Intelligence</a
                       >
                     </li>
@@ -270,7 +270,7 @@ import Logo from './Logo.vue';
                 <li
                   class="menu-item menu-item-type-post_type menu-item-object-page menu-item-33"
                 >
-                  <a href="https://fas.org/publications/">My Articles</a>
+                  <a href="/articles">My Articles</a>
                 </li>
                 <li
                   class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-10"
@@ -280,68 +280,68 @@ import Logo from './Logo.vue';
                     <li
                       class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1674"
                     >
-                      <a href="https://fas.org/day-one-project/"
+                      <a href="/get-involved"
                         >Day One Project</a
                       >
                     </li>
                     <li
                       class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1829"
                     >
-                      <a href="https://fas.org/talent-hub/">Talent Hub</a>
+                      <a href="/talent-hub/">Talent Hub</a>
                     </li>
                     <li
                       class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1675"
                     >
-                      <a href="https://fas.org/fiscal-sponsorship/"
+                      <a href="/fiscal-sponsorship/"
                         >Fiscal Sponsorship</a
                       >
                     </li>
                     <li
                       class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1686"
                     >
-                      <a href="https://fas.org/ways-to-engage/">Ways to engage</a>
+                      <a href="/ways-to-engage/">Ways to engage</a>
                     </li>
                   </ul>
                 </li>
                 <li
                   class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-45"
                 >
-                  <a href="https://fas.org/about-fas/">About</a>
+                  <a href="/about-fas/">About</a>
                   <ul class="sub-menu">
                     <li
                       class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1673"
                     >
-                    <router-link to="/aboutMe">About</router-link>
+                    <a  href="/aboutMe">About</a>
                   </li>
                   
                     <li
                       class="menu-item menu-item-type-custom menu-item-object-custom menu-item-17438"
                     >
-                      <a href="https://fas.org/fas-experts/?expert-category=staff"
+                      <a href="/fas-experts/?expert-category=staff"
                         >Staff</a
                       >
                     </li>
                     <li
                       class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1312"
                     >
-                      <a href="https://fas.org/careers/">Careers</a>
+                      <a href="/front">Careers</a>
                     </li>
                   </ul>
                 </li>
                 <li
                   class="menu-item menu-item-type-post_type menu-item-object-page menu-item-31"
                 >
-                  <a href="https://fas.org/contact/">Contact</a>
+                  <a href="/contact/">Contact</a>
                 </li>
                 <li
                   class="menu-item menu-item-type-post_type menu-item-object-page menu-item-32"
                 >
-                  <a href="https://fas.org/donate/">Donate</a>
+                  <a href="/donate/">Donate</a>
                 </li>
                 <li
                   class="menu-item menu-item-type-post_type menu-item-object-page menu-item-34"
                 >
-                  <a href="https://fas.org/search/">Search</a>
+                  <a href="/search">Search</a>
                 </li>
               </ul>
             </div>

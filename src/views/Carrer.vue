@@ -45,7 +45,7 @@
             <div class="timeline__row">
                 <div class="timeline__row-grid timeline__row-grid--all-columns">
                     <div class="timeline__row-image">
-                        <img decoding="async" src="https://scontent.ftun20-1.fna.fbcdn.net/v/t39.30808-6/347577308_207215745475647_6392985624889672443_n.jpg?_nc_cat=111&ccb=1-7&_nc_sid=5f2048&_nc_ohc=r2BMEFEoEMoAX9jjyyS&_nc_ht=scontent.ftun20-1.fna&oh=00_AfCygEJ30AgPaglJm3j-7Wt7j9TegSHDXkkp8_japBX6xw&oe=66003713" srcset=""
+                        <img decoding="async" src="https://scontent.ftun20-1.fna.fbcdn.net/v/t39.30808-6/347577308_207215745475647_6392985624889672443_n.jpg?_nc_cat=111&ccb=1-7&_nc_sid=5f2048&_nc_ohc=VSoU9ERWtwEAX_SIEnt&_nc_ht=scontent.ftun20-1.fna&oh=00_AfAVt801bjr_nbnv-0kUF3g2lFYRZEe6RCR6inXPaRc2qA&oe=660C1493" srcset=""
                             sizes="100vw, (min-width: 720px) 670px" alt="" />
                         <div class="timeline__row-image-caption">
                           Sofwtare Engineer Graduation </div>
@@ -63,20 +63,16 @@
             <div class="timeline__row">
                 <div class="timeline__row-grid timeline__row-grid--all-columns">
                     <div class="timeline__row-image">
-                        <img decoding="async" src="https://scontent.ftun20-1.fna.fbcdn.net/v/t39.30808-6/347577308_207215745475647_6392985624889672443_n.jpg?_nc_cat=111&ccb=1-7&_nc_sid=5f2048&_nc_ohc=r2BMEFEoEMoAX9jjyyS&_nc_ht=scontent.ftun20-1.fna&oh=00_AfCygEJ30AgPaglJm3j-7Wt7j9TegSHDXkkp8_japBX6xw&oe=66003713" srcset=""
+                        <img decoding="async" src="http://smart216.com/images/Partenaires/GroupeDM-France-Tunisie.png" srcset=""
                             sizes="100vw, (min-width: 720px) 670px" alt="" />
                         <div class="timeline__row-image-caption">
-                            president harry s. truman signs the atomic energy act into law </div>
+                           Groupe DM France </div>
                     </div>
                     <div class="timeline__row-middle-text">
                         <p style="text-align: center;">2022</p>
                     </div>
                     <div class="timeline__row-main-text">
-                        <p>By 1948, the Federation had grown to nearly 2,500 members, and had been instrumental in the
-                            passage of the <a href="https://en.wikipedia.org/wiki/Atomic_Energy_Act_of_1946">McMahon
-                                Act</a>, which kept the nuclear arsenal under civilian and not military control, and the
-                            creation of the National Science Foundation, and had influenced the American position in the
-                            United Nations with regard to international control of atomic energy and disarmament.</p>
+                        <p> 2019, I did my first web developer internship .</p>
                     </div>
                 </div>
             </div>
