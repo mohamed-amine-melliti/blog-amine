@@ -3,8 +3,6 @@
 
 <template>
 
-
-
     <main class="site-main">
 
 
@@ -19,69 +17,51 @@
                     <div class="search-page__category-title">
                         trending terms </div>
                     <div class="search-page__category-terms">
-                        <a href="https://fas.org/publications-archive/?tt=nuclear-notebook"
-                            class="search-page__category-term">
+                        <a href="/myarticles?tt=nuclear-notebook" class="search-page__category-term">
                             Web 3D Front-End </a>
-                        <a href="https://fas.org/publications-archive/?tt=artificial-intelligence"
-                            class="search-page__category-term">
+                        <a href="/myarticles?tt=artificial-intelligence" class="search-page__category-term">
                             Artificial Intelligence </a>
-                        <a href="https://fas.org/publications-archive/?tt=extreme-heat"
-                            class="search-page__category-term">
+                        <a href="/myarticles?tt=extreme-heat" class="search-page__category-term">
                             Web Pentesting </a>
-                        <a href="https://fas.org/publications-archive/?tt=bioeconomy"
-                            class="search-page__category-term">
-                            Bioeconomy </a>
-                        <a href="https://fas.org/publications-archive/?tt=clean-energy"
-                            class="search-page__category-term">
-                            Clean Energy </a>
+                        <a href="/myarticles?tt=bioeconomy" class="search-page__category-term">
+                            Software architecture </a>
+
                     </div>
                 </div>
                 <div class="search-page__category">
                     <div class="search-page__category-title">
                         issues </div>
                     <div class="search-page__category-tags">
-                        <a href="https://fas.org/publications-archive/?i=21" class="search-page__category-tags-issue"
+                        <a href="/myarticles?i=21" class="search-page__category-tags-issue"
                             style="--issue-color: var(--color--tech)">
-                            Technology &#038; Innovation </a>
-                        <a href="https://fas.org/publications-archive/?i=19" class="search-page__category-tags-issue"
+                            Front &#038; End </a>
+                        <a href="/myarticles?i=19" class="search-page__category-tags-issue"
                             style="--issue-color: var(--color--social)">
-                            Social Innovation </a>
-                        <a href="https://fas.org/publications-archive/?i=17" class="search-page__category-tags-issue"
+                            Back End </a>
+                        <a href="/myarticles?i=17" class="search-page__category-tags-issue"
                             style="--issue-color: var(--color--science)">
-                            Science Policy </a>
-                        <a href="https://fas.org/publications-archive/?i=15" class="search-page__category-tags-issue"
+                            Software architecture </a>
+                        <a href="/myarticles?i=15" class="search-page__category-tags-issue"
                             style="--issue-color: var(--color--national)">
                             Nuclear Weapons </a>
-                        <a href="https://fas.org/publications-archive/?i=13" class="search-page__category-tags-issue"
+                        <a href="/myarticles?i=13" class="search-page__category-tags-issue"
                             style="--issue-color: var(--color--regional)">
-                            Ecosystems &amp; Entrepreneurship </a>
+                            Web &amp; Pentesting </a>
 
-                        <a href="https://fas.org/publications-archive/?i=day-one"
-                            class="search-page__category-tags-issue" style="--issue-color: var(--color--black)">
-                            Day One Project </a>
+                        <a href="/myarticles?i=day-one" class="search-page__category-tags-issue"
+                            style="--issue-color: var(--color--black)">
+                            My projects </a>
                     </div>
                 </div>
                 <div class="search-page__category">
                     <div class="search-page__category-title">
                         types </div>
                     <div class="search-page__category-tags">
-                        <a href="https://fas.org/publications-archive/?pt=article"
-                            class="search-page__category-tags-type">
+                        <a href="/myarticles" class="search-page__category-tags-type">
                             Article </a>
-                        <a href="https://fas.org/publications-archive/?pt=blog" class="search-page__category-tags-type">
-                            Blog </a>
-                        <a href="https://fas.org/publications-archive/?pt=issue-brief"
-                            class="search-page__category-tags-type">
-                            Issue Brief </a>
-                        <a href="https://fas.org/publications-archive/?pt=policies"
-                            class="search-page__category-tags-type">
-                            Policy Memo </a>
-                        <a href="https://fas.org/publications-archive/?pt=press-release"
-                            class="search-page__category-tags-type">
-                            Press release </a>
-                        <a href="https://fas.org/publications-archive/?pt=report"
-                            class="search-page__category-tags-type">
-                            Report </a>
+                        <a href="/myprojects" class="search-page__category-tags-type">
+                            Project </a>
+
                     </div>
                 </div>
             </div>

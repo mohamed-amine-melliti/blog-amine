@@ -118,8 +118,7 @@ Welcome To My Blog where You can find shared knowledge of A.I , Full Stack devel
   
                     <div class="archive-post__body">
                       <div class="archive-post__body-title">
-                        Construction Of New Nuclear Weapons Facility At Barksdale
-                        AFB
+                        First AI-Human Air Combat
                       </div>
                       <div
                         class="archive-post__body-content archive-post__body-content--has-excerpt"
@@ -742,7 +741,7 @@ Welcome To My Blog where You can find shared knowledge of A.I , Full Stack devel
             </div>
           </section>
   
-          <section class="block block--full-width day-one-cta">
+          <!-- <section class="block block--full-width day-one-cta">
             <div class="day-one-cta__inner">
               <div class="day-one-cta__grid">
                 <div class="day-one-cta__project-panel">
@@ -923,7 +922,7 @@ Welcome To My Blog where You can find shared knowledge of A.I , Full Stack devel
                 </div>
               </div>
             </div>
-          </section>
+          </section> -->
         </div>
       </main>
   

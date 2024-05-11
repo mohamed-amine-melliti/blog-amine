@@ -23,12 +23,6 @@ const router = createRouter({
       component: () => import("../views/HomeView.vue"),
     },
 
-    {
-      path: "/",
-      name: "main",
-      component: () => import("../views/HomeView.vue"),
-    },
-
 
     {
       path: "/:notFound",
@@ -46,6 +40,10 @@ const router = createRouter({
       component: () => import("../views/Articles.vue"),
     },
 
+    {
+      path: "/spline3D",
+      component: () => import("../temporary/ArticleFrontEnd.vue"),
+    },
 
   ],
 });

@@ -2,7 +2,6 @@
 	"name": "@richardev/vue3-boilerplate",
 	"description": "Quick boilerplate for your next project, containing - Vite, Vuex, Vue Router & Tailwind CSS. This was created as part of my tutorial series.",
 	"version": "1.0.8",
-
 	"scripts": {
 		"dev": "vite",
 		"build": "vite build",
@@ -10,8 +9,10 @@
 		"lint": "eslint . --ext .vue,.js,.jsx,.cjs,.mjs --fix --ignore-path .gitignore"
 	},
 	"dependencies": {
+		"axios": "^1.6.8",
 		"pinia": "^2.0.22",
 		"vue": "^3.2.39",
+		"vue-axios": "^3.5.2",
 		"vue-router": "^4.1.5",
 		"vue-spline": "^0.0.4"
 	},
