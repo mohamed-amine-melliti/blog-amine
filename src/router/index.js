@@ -45,6 +45,14 @@ const router = createRouter({
       component: () => import("../temporary/ArticleFrontEnd.vue"),
     },
 
+
+    {
+      path: "/algorthims-frank-stajano",
+      component: () => import("../views/articules/Algorithms.vue"),
+    },
+
+
+    
   ],
 });
 

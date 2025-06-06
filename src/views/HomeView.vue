@@ -303,54 +303,11 @@
         <div class="issue-listing__inner">
           <header class="block-header">
             <div class="block-header__heading">
-              <div class="block-header__heading-subtitle">Articles</div>
+              <div class="block-header__heading-subtitle">issues</div>
             </div>
           </header>
           <div class="issue-listing__grid issue-listing__grid--image-card">
-            <a href="/web-pentesting" class="listing-card listing-card--short-image" style="
-                  --issue-color: var(--color--tech);
-                  --issue-font-color: var(--color--offwhite);
-                ">
-              <div class="issue-listing__image listing-card__image">
-                <img decoding="async" src="https://fas.org/wp-content/uploads/2023/02/nasa-cIX5TlQ_FgM-unsplash.jpg"
-                  srcset="
-                      https://fas.org/wp-content/uploads/2023/02/nasa-cIX5TlQ_FgM-unsplash-402x402.jpg    402w,
-                      https://fas.org/wp-content/uploads/2023/02/nasa-cIX5TlQ_FgM-unsplash-462x462.jpg    462w,
-                      https://fas.org/wp-content/uploads/2023/02/nasa-cIX5TlQ_FgM-unsplash-662x662.jpg    662w,
-                      https://fas.org/wp-content/uploads/2023/02/nasa-cIX5TlQ_FgM-unsplash-722x722.jpg    722w,
-                      https://fas.org/wp-content/uploads/2023/02/nasa-cIX5TlQ_FgM-unsplash-982x982.jpg    982w,
-                      https://fas.org/wp-content/uploads/2023/02/nasa-cIX5TlQ_FgM-unsplash-1032x1032.jpg 1032w,
-                      https://fas.org/wp-content/uploads/2023/02/nasa-cIX5TlQ_FgM-unsplash-1402x1402.jpg 1402w,
-                      https://fas.org/wp-content/uploads/2023/02/nasa-cIX5TlQ_FgM-unsplash-1702x1702.jpg 1702w,
-                      https://fas.org/wp-content/uploads/2023/02/nasa-cIX5TlQ_FgM-unsplash-2002x2002.jpg 2002w
-                    " sizes="100vw, (min-width: 720px) 50vw" alt="" />
-                <div class="listing-card__image-overlay"></div>
-              </div>
-              <div class="listing-card__body">
-                <div class="archive-post">
-                  <div class="archive-post__issue">
-                    <div class="archive-post__issue-title">
-                      Technology &#038; Innovation
-                    </div>
-                  </div>
-                  <div class="archive-post__body">
-                    <div class="archive-post__body-content archive-post__body-content--has-excerpt">
-                      We must begin to solve future challenges by providing
-                      insight to industry, bridging connections across sectors
-                      and pushing for government innovation at all levels.
-                    </div>
-                  </div>
-                  <div class="archive-post__link">
-                    <svg width="11" height="9" viewBox="0 0 11 9" fill="none" xmlns="http://www.w3.org/2000/svg">
-                      <path d="M11 5.95025L11 3.12439L-3.57628e-07 1.31174e-07L-2.50304e-07 9L11 5.95025Z"
-                        fill="#255979" />
-                    </svg><span>view issue</span>
-                  </div>
-                  <div class="archive-post__hover-background"></div>
-                </div>
-              </div>
-            </a>
-            <a href="/ai" class="listing-card listing-card--short-image" style="
+            <!-- <a href="/ai" class="listing-card listing-card--short-image" style="
                   --issue-color: var(--color--social);
                   --issue-font-color: var(--color--black);
                 ">
@@ -393,8 +350,8 @@
                   <div class="archive-post__hover-background"></div>
                 </div>
               </div>
-            </a>
-            <a href="/software-architecture" class="listing-card listing-card--short-image" style="
+            </a> -->
+            <a href="/algorthims-frank-stajano" class="listing-card listing-card--short-image" style="
                   --issue-color: var(--color--science);
                   --issue-font-color: var(--color--offwhite);
                 ">
@@ -417,14 +374,21 @@
                 <div class="archive-post">
                   <div class="archive-post__issue">
                     <div class="archive-post__issue-title">
-                      Science Policy
+                      Algorithms
                     </div>
                   </div>
                   <div class="archive-post__body">
                     <div class="archive-post__body-content archive-post__body-content--has-excerpt">
-                      We build connections between scientists and policymakers
-                      to serve the public good, across domains like
-                      environmental justice, the bioeconomy, and more.
+                      الخوارزمية هي وصف منهجي لحل مشكلة ما. من خلال كلمة "منهجي" نعني أن المشكلة التي يتم حلها يجب أن
+                      تحدد بدقة متناهية
+
+                      <br>
+                      <br>
+                      ملخص
+                      <br>
+
+                      -- Algorithms --
+                      Professor Frank Stajano
                     </div>
                   </div>
                   <div class="archive-post__link">
@@ -457,7 +421,7 @@
                 <div class="archive-post">
                   <div class="archive-post__issue">
                     <div class="archive-post__issue-title">
-                      Nuclear Weapons
+                      Calculus
                     </div>
                   </div>
                   <div class="archive-post__body">
@@ -496,7 +460,7 @@
                 <div class="archive-post">
                   <div class="archive-post__issue">
                     <div class="archive-post__issue-title">
-                      Ecosystems &amp; Entrepreneurship
+                      Web & Pentesting
                     </div>
                   </div>
                   <div class="archive-post__body">

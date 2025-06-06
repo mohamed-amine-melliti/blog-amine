@@ -24,7 +24,7 @@
                         <a href="/myarticles?tt=extreme-heat" class="search-page__category-term">
                             Web Pentesting </a>
                         <a href="/myarticles?tt=bioeconomy" class="search-page__category-term">
-                            Software architecture </a>
+                            Software architecture and Algorithms </a>
 
                     </div>
                 </div>
@@ -40,10 +40,10 @@
                             Back End </a>
                         <a href="/myarticles?i=17" class="search-page__category-tags-issue"
                             style="--issue-color: var(--color--science)">
-                            Software architecture </a>
+                            Software architecture & Algo </a>
                         <a href="/myarticles?i=15" class="search-page__category-tags-issue"
                             style="--issue-color: var(--color--national)">
-                            Nuclear Weapons </a>
+                            Calculus </a>
                         <a href="/myarticles?i=13" class="search-page__category-tags-issue"
                             style="--issue-color: var(--color--regional)">
                             Web &amp; Pentesting </a>

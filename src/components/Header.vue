@@ -132,7 +132,7 @@ import Logo from './Logo.vue';
                   class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-10"
                 >
                   <a href="#">Get involved</a>
-                  <ul class="sub-menu">
+                  <!-- <ul class="sub-menu">
                     <li
                       id="menu-item-1674"
                       class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1674"
@@ -161,14 +161,14 @@ import Logo from './Logo.vue';
                     >
                       <a href="ways-to-engage/">Ways to engage</a>
                     </li>
-                  </ul>
+                  </ul> -->
                 </li>
                 <li
                   id="menu-item-45"
                   class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-45"
                 >
                   <a  href="/aboutMe">About</a>
-                  <ul class="sub-menu">
+                  <!-- <ul class="sub-menu">
                     <li
                       id="menu-item-1673"
                       class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1673"
@@ -198,7 +198,7 @@ import Logo from './Logo.vue';
                     >
                       <a href="/front">Careers</a>
                     </li>
-                  </ul>
+                  </ul> -->
                 </li>
                 <li
                   id="menu-item-31"
