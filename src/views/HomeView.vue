@@ -110,7 +110,7 @@
         </div>
       </section>
 
-      <section
+      <!-- <section
         class="block block--full-width content-listing content-listing--post-type-publications content-listing--grid">
         <div class="content-listing__inner">
           <header class="block-header">
@@ -167,7 +167,7 @@
 
               <div class="archive-post__hover-background"></div>
             </a>
-            <a href="https://fas.org/publication/supply-side-tax-credit-affordable-housing/" class="archive-post" style="
+            <a href="" class="archive-post" style="
                   --issue-color: var(--color--social);
                   --issue-font-color: var(--color--black);
                 " data-post-id="28573">
@@ -209,7 +209,7 @@
 
               <div class="archive-post__hover-background"></div>
             </a>
-            <a href="https://fas.org/publication/develop-a-housing-production-dashboard-to-aid-policymaking/"
+            <a href=""
               class="archive-post" style="
                   --issue-color: var(--color--social);
                   --issue-font-color: var(--color--black);
@@ -253,7 +253,7 @@
 
               <div class="archive-post__hover-background"></div>
             </a>
-            <a href="https://fas.org/publication/exempt-affordable-housing-from-volume-caps/" class="archive-post"
+            <a href="" class="archive-post"
               style="
                   --issue-color: var(--color--social);
                   --issue-font-color: var(--color--black);
@@ -297,13 +297,13 @@
             </a>
           </div>
         </div>
-      </section>
+      </section> -->
 
       <section class="block block--full-width issue-listing">
         <div class="issue-listing__inner">
           <header class="block-header">
             <div class="block-header__heading">
-              <div class="block-header__heading-subtitle">issues</div>
+              <div class="block-header__heading-subtitle">Articles</div>
             </div>
           </header>
           <div class="issue-listing__grid issue-listing__grid--image-card">
